@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://luma.cafe/sitemap.xml
+Sitemap: https://timkh376-beep.github.io/sitemap.xml
